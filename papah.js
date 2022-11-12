@@ -4004,10 +4004,11 @@ let capt = `⭔ Title: ${judul}
             case 'rules': {
 rules = `*Rules BOT*
 
-Sad-Bot merupakan sebuah Robot WhatsApp yang diprogram untuk melakukan perintah tertentu secara otomatis.
+X-BOT merupakan sebuah Robot WhatsApp yang diprogram untuk melakukan perintah tertentu secara otomatis.
 Setiap respon atau balasan yang dilakukan oleh bot bukan dari Manusia.
 
-Dengan memakai bot ini maka kamu *setuju* dengan syarat dan kondisi sbg berikut:
+Dengan memakai bot ini maka kamu *setuju* dengan syarat dan ketentuan berikut:
+
 -Beri jeda dari setiap memakai fitur.
 -Dilarang Keras Spamming Bot.
 -Kami tidak menyimpan gambar, video, file, audio, dan dokumen dari anda
@@ -4035,7 +4036,7 @@ let kominfo = `628119224545@s.whatsapp.net`
 let alfamart = `628111500959@s.whatsapp.net`
             let ownernya = ownernomer + '@s.whatsapp.net'
             let me = m.sender
-            let jawab = `*Bot by Papah-Chan* 
+            let jawab = `*Bot By Dapa* 
 -Creator :  @${ownernya.split('@')[0]}\n-Lu : @${me.split('@')[0]}\n-Powered  : @${ini_mark.split('@')[0]}\n- :  @${qontak.split('@')[0]}\n- :  @${dana.split('@')[0]}\n- :  @${shopeeotp.split('@')[0]}\n- :  @${shopee.split('@')[0]}\n- :  @${tokopedia.split('@')[0]}\n- :  @${smartfrend.split('@')[0]}\n- :  @${getcontact.split('@')[0]}\n- :  @${facebook.split('@')[0]}\n- :  @${pasarpolis.split('@')[0]}\n- :  @${getcontact.split('@')[0]}\n- :  @${kominfo.split('@')[0]}\n- :  @${alfamart.split('@')[0]}`
             let ments = [ownernya, me, ini_mark, qontak, dana, shopeeotp, shopee, tokopedia, smartfrend, getcontact, facebook, pasarpolis, kominfo, alfamart]
             let buttons = [
@@ -4581,7 +4582,7 @@ _⫹⫺ Bot Name : Sad-Bot_
 _⫹⫺ Library : Baileys-Md_
 _⫹⫺ Version : 4.0.4_
 _⫹⫺ Language : Javascript_
-_⫹⫺ Recoder : 𝙋𝙖𝙥𝙖𝙝-𝘾𝙝𝙖𝙣_
+_⫹⫺ Recoder : Dapa_
 _⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}_
 _⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}_                
 _⫹⫺ Bot Mode : Public Mode_
@@ -4975,6 +4976,7 @@ DikaArdnt As Developer
 NazeDev As Owner Base
 Papah As Recode
 KyuraSaja
+Dapa
 Nurutomo
 Contributors in GitHub
 RestAPI
